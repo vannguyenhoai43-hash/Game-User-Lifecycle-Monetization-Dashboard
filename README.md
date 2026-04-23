@@ -4,7 +4,7 @@
 Project phân tích toàn bộ user lifecycle trong game, từ **install → login → play/session → retention → payer → revenue**.  
 Mục tiêu là theo dõi hiệu quả kinh doanh, xác định bottleneck trong hành vi người dùng và tìm cơ hội tối ưu retention, conversion và revenue.
 
-**Công cụ sử dụng:** SQL Server, Power BI, Google Slides
+**Công cụ sử dụng:** SQL Server, Power BI, Slides
 
 ---
 
