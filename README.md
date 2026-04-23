@@ -6,6 +6,8 @@ Mục tiêu là theo dõi hiệu quả kinh doanh, xác định bottleneck trong
 
 **Công cụ sử dụng:** SQL Server, Power BI, Slides
 
+Dữ liệu được xử lý trong SQL Server và kết nối sang Power BI để xây dựng dashboard, giúp việc cập nhật và refresh báo cáo thuận tiện hơn.
+
 ---
 
 ## Bài toán
