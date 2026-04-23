@@ -33,6 +33,8 @@ Một số vấn đề dữ liệu được xử lý:
 Table Schema
 
 ![Table Schema](images/game_table_schema.png)
+
+![SQL_CODE](sql/sql_code)
 ---
 
 ## Cấu trúc dữ liệu chính
