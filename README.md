@@ -27,6 +27,8 @@ Một số vấn đề dữ liệu được xử lý:
 - duplicate trong `progression_logs`
 - outlier `engagement_time_sec > 86400` trong `session_logs`
 - mapping chưa 1-1 giữa `user_id` và `trans_user_id`
+  
+Table Schema
 
 ![Table Schema](images/game_table_schema.png)
 ---
