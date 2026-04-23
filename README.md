@@ -6,7 +6,7 @@ Mục tiêu là theo dõi hiệu quả kinh doanh, xác định bottleneck trong
 
 **Công cụ sử dụng:** SQL Server, Power BI, Slides
 
-Dữ liệu được xử lý trong SQL Server và kết nối sang Power BI để xây dựng dashboard, giúp việc cập nhật và refresh báo cáo thuận tiện hơn.
+Dữ liệu được làm sạch và tổng hợp trong SQL Server, sau đó kết nối sang Power BI để xây dựng data model, measure và dashboard.
 
 ---
 
@@ -34,7 +34,7 @@ Table Schema
 
 ![Table Schema](images/game_table_schema.png)
 
-![SQL_CODE](sql/sql_code)
+[SQL_CODE](sql/sql_code)
 ---
 
 ## Cấu trúc dữ liệu chính
