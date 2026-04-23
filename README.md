@@ -72,6 +72,7 @@ Dashboard gồm 3 phần chính:
 - chăm sóc nhóm **payer giá trị cao**
 - đa dạng hóa package để giảm phụ thuộc doanh thu
 
+👉 [Xem báo cáo mẫu chi tiết](https://canva.link/co3uerpuuqfhyuj)
 ---
 
 ## Kỹ năng áp dụng
