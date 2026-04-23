@@ -46,13 +46,14 @@ Một số vấn đề dữ liệu được xử lý:
 
 ## Dashboard
 Dashboard gồm 3 phần chính:
-- **Overview**: KPI tổng quan, revenue trend, funnel
-- **User Engagement**: active users, session, playtime, retention, cohort
-- **Monetization**: revenue theo package, nhóm chi tiêu, phân bổ doanh thu
 
-> **[Chèn ảnh]**
+**Overview**: KPI tổng quan, revenue trend, funnel
 > ![Overview](images/game_overview.png)
+
+**User Engagement**: active users, session, playtime, retention, cohort
 > ![User Engagement page](images/game_user_engagement.png)
+
+**Monetization**: revenue theo package, nhóm chi tiêu, phân bổ doanh thu
 > ![Monetization page](images/game_monetization.png)
 
 ---
