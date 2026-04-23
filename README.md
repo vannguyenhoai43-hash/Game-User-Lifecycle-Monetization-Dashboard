@@ -26,9 +26,9 @@ Một số vấn đề dữ liệu được xử lý:
 - dòng null thừa trong `install_logs`
 - duplicate trong `progression_logs`
 - outlier `engagement_time_sec > 86400` trong `session_logs`
-- mapping chưa 1-1 giữa `user_id` và `gamota_user_id`
+- mapping chưa 1-1 giữa `user_id` và `trans_user_id`
 
-![Table Schema](image/game_table_schema.png)
+![Table Schema](images/game_table_schema.png)
 ---
 
 ## Cấu trúc dữ liệu chính
@@ -41,7 +41,7 @@ Một số vấn đề dữ liệu được xử lý:
 - **`fact_daily_transaction`**: phân tích doanh thu và giao dịch
 
 > **[Data model]**: Data model / relationship view
-![Data model](image/game_data_model.png)
+![Data model](images/game_data_model.png)
 ---
 
 ## Dashboard
