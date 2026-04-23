@@ -51,9 +51,9 @@ Dashboard gồm 3 phần chính:
 - **Monetization**: revenue theo package, nhóm chi tiêu, phân bổ doanh thu
 
 > **[Chèn ảnh]**
-> ![Overview](image/game_overview.png)
-> ![User Engagement page](image/game_user_engagement.png)
-> ![Monetization page](image/game_monetization.png)
+> ![Overview](images/game_overview.png)
+> ![User Engagement page](images/game_user_engagement.png)
+> ![Monetization page](images/game_monetization.png)
 
 ---
 
